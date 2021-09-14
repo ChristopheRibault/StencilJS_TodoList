@@ -1,4 +1,12 @@
-# Stencil App Starter
+# Todo List with Stencil
+
+## The project
+
+Just try and use Stencil JS with a fisrt small project.
+
+The purpose is to discover how the library works for potential further profesional usage.
+
+## Stencil App Starter
 
 Stencil is a compiler for building fast web apps using Web Components.
 
